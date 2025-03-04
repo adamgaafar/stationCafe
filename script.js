@@ -1,7 +1,7 @@
 // Paths to your PDF files
 const pdfPaths = {
     menu1: 'menu1.pdf',
-    menu2: 'menu2.pdf'
+    //menu2: 'menu2.pdf'
 };
 
 let currentPdf = pdfPaths.menu1; // Default PDF
